@@ -1,0 +1,44 @@
+Mets une croix ou une réponse dans les crochets si task fini
+{} setup
+    {X, React} langage de dev utilisé
+    {X, create-react-app} comment ta installé react, https://create-react-app.dev/docs/getting-started
+      (optionel)  {react-boostrap} pour use boostrap avec create-react-app, https://react-bootstrap.netlify.app/getting-started/introduction
+
+{} ne pas exagérer sur mes skills
+{react pro sidebar} menu déroulant à gauche, lien : https://github.com/azouaoui-med/react-pro-sidebar
+{} block présentation (about me)
+    {} situation
+    {} passion
+    {} études (ufra, fcc), lien vers block formation
+    {} hobbies
+
+{} block formation/etudes ()
+    {} expliquer simplement mon parcours universitaire
+    {} lien vers block projet si on parle de projet universitaires
+
+{} block project ()
+    {} parler et mettre un lien github de pickseat
+    {} mettre la vidéo de présentation de pickseat
+    {} mettre des liens de mes meilleurs projets FCC
+    {} mettre une vidéo de mes meilleurs projets FCC
+
+{} block cv
+    {} affiche mon cv en pdf ou sur une page web
+
+{} block contact (contact me)
+    {} contacts facile à trouver (mail, github, linkedIn) et simplement présentés
+
+{} footer, img réseaux sociaux
+
+exemples de portfolio : 
+ https://ferdinandyu.github.io (2)
+ http://findmatthew.com/
+ https://chippd.github.io/
+ https://www.ybrikman.com/ (1)
+ https://jtom.me/portfolio/ (1)
+ https://andrewborstein.com/
+
+
+Le déploiement se fera sur github
+
+Deadline : 18/09/2020
