@@ -1,0 +1,68 @@
+.mobile {
+
+    width: 100%;
+}
+
+.mobile-menu {
+
+    background-color: #1d1d1d;
+    color: #adadad;
+    padding-top: 10%;
+
+}
+
+.mobile-logo{
+
+    border-radius: 50%;
+    display: block;
+    height: 150px;
+    margin: 0 auto 0 auto;
+    width: 150px;
+}
+
+.mobile-logo-titre {
+
+    border-bottom: 1px solid #adadad;
+    display: block;
+    line-height: 150%;
+    margin: 2% auto 2% auto;
+    text-align: center;
+    
+}
+
+.mobile-contact-info {
+
+    text-align: right;
+    padding: 2% 0 3% 5%;
+}
+
+.mobile-footer-icon {
+
+    font-size: medium;
+    margin: 1%;
+    
+}
+
+.mobile-footer-icon:hover {
+
+    color: white;
+}
+
+.mobile-bouton-menu {
+
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+}
+
+.dropdown-link, .mobile-bouton {
+
+    background-color: #1d1d1d;
+    border: none;
+    color: #adadad;
+}
+
+.dropdown-link:hover, .mobile-bouton:hover {
+
+    outline: none;
+}
