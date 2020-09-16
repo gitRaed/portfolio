@@ -2,10 +2,9 @@ Mets une croix ou une réponse dans les crochets si task fini
 {} setup
     {X, React} langage de dev utilisé
     {X, create-react-app} comment ta installé react, https://create-react-app.dev/docs/getting-started
-      (optionel)  {react-boostrap} pour use boostrap avec create-react-app, https://react-bootstrap.netlify.app/getting-started/introduction
+    {react pro sidebar} menu déroulant à gauche, lien : https://github.com/azouaoui-med/react-pro-sidebar
+     (optionel)  {react-boostrap} pour use boostrap avec create-react-app, https://react-bootstrap.netlify.app/getting-started/introduction
 
-{} ne pas exagérer sur mes skills
-{react pro sidebar} menu déroulant à gauche, lien : https://github.com/azouaoui-med/react-pro-sidebar
 {} block présentation (about me)
     {} situation
     {} passion
@@ -23,6 +22,7 @@ Mets une croix ou une réponse dans les crochets si task fini
     {} mettre une vidéo de mes meilleurs projets FCC
 
 {} block cv
+    {} ne pas exagérer sur mes skills
     {} affiche mon cv en pdf ou sur une page web
 
 {} block contact (contact me)
@@ -34,7 +34,7 @@ exemples de portfolio :
  https://ferdinandyu.github.io (2)
  http://findmatthew.com/
  https://chippd.github.io/
- https://www.ybrikman.com/ (1)
+ https://www.ybrikman.com/
  https://jtom.me/portfolio/ (1)
  https://andrewborstein.com/
 
