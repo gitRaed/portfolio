@@ -1,8 +1,8 @@
 import React from 'react';
-import './style/App.css';
-import './style/mobile.css';
+import '../style/App.css';
+import '../style/mobile.css';
 import { ProSidebar, SidebarHeader, SidebarContent, SidebarFooter, Menu, MenuItem} from 'react-pro-sidebar';
-import '../node_modules/react-pro-sidebar/dist/css/styles.css';
+import '../../node_modules/react-pro-sidebar/dist/css/styles.css';
 
 
 class OtherMenu extends React.Component{
@@ -14,7 +14,7 @@ class OtherMenu extends React.Component{
         <ProSidebar width="30%" >
 
           <SidebarHeader>
-            <img className="logo" src={require("./images/raed2.png")} alt="My face"></img>
+            <img className="logo" src={require("../images/raed2.png")} alt="My face"></img>
             <div className="logo-titre">Faddoul El-Achkar Raed <br /> FULL STACK SOFTWARE ENGINEER</div>
           </SidebarHeader>
 
@@ -49,7 +49,7 @@ class MobileMenu extends React.Component {
       <div className="mobile">
         
         <div className="mobile-menu">
-          <img className="mobile-logo" src={require("./images/raed2.png")} alt="My face"></img>
+          <img className="mobile-logo" src={require("../images/raed2.png")} alt="My face"></img>
           <div className="mobile-logo-titre">FADDOUL EL-ACHKAR RAED <br /> FULL STACK SOFTWARE ENGINEER</div>
 
           <div className="mobile-contact-info">
