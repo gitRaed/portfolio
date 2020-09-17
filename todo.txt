@@ -2,7 +2,7 @@ Mets une croix ou une réponse dans les crochets si task fini
 {X} setup
     {X, React} langage de dev utilisé
     {X, create-react-app} comment ta installé react, https://create-react-app.dev/docs/getting-started
-    {react pro sidebar} menu déroulant à gauche, lien : https://github.com/azouaoui-med/react-pro-sidebar
+    {X, react pro sidebar} menu déroulant à gauche, lien : https://github.com/azouaoui-med/react-pro-sidebar
      (optionel)  {react-boostrap} pour use boostrap avec create-react-app, https://react-bootstrap.netlify.app/getting-started/introduction
 
 {X} Menu

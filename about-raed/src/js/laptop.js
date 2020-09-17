@@ -26,7 +26,7 @@ export class LaptopMenu extends React.Component{
 
                 <SidebarHeader>
                     <img className="logo" src={require("../images/raed2.png")} alt="My face"></img>
-                    <div className="logo-titre">Faddoul El-Achkar Raed <br /> FULL STACK SOFTWARE ENGINEER</div>
+                    <div className="logo-titre">FADDOUL EL-ACHKAR RAED <br /> FULL STACK SOFTWARE ENGINEER</div>
                 </SidebarHeader>
 
                 <SidebarContent>
@@ -42,7 +42,7 @@ export class LaptopMenu extends React.Component{
                 <SidebarFooter>
                     <div className="footer-info">
                         Get in touch <br /> <br />
-                        <a href="mailto:raedfaddoul@gmail.com"> <i className="fas fa-envelope footer-icon"></i></a> <a href="https://github.com/gitRaed"><i className="fab fa-github footer-icon"></i></a> <a href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i className="fab fa-linkedin footer-icon"></i></a>
+                        <a href="mailto:raedfaddoul@gmail.com"> <i className="fas fa-envelope footer-icon icon"></i></a> <a href="https://github.com/gitRaed"><i className="fab fa-github footer-icon icon"></i></a> <a href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i className="fab fa-linkedin footer-icon icon"></i></a>
                     </div>
                 </SidebarFooter>
             </ProSidebar>

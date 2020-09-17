@@ -23,7 +23,7 @@ export class MobileMenu extends React.Component {
                 <div className="mobile-logo-titre">FADDOUL EL-ACHKAR RAED <br /> FULL STACK SOFTWARE ENGINEER</div>
 
                 <div className="mobile-contact-info">
-                    <a href="mailto:raedfaddoul@gmail.com"><i class="fas fa-envelope mobile-footer-icon"></i></a>  <a href="https://github.com/gitRaed"><i class="fab fa-github mobile-footer-icon"></i></a> <a href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i class="fab fa-linkedin mobile-footer-icon"></i></a>
+                    <a href="mailto:raedfaddoul@gmail.com"><i class="fas fa-envelope mobile-footer-icon icon"></i></a>  <a href="https://github.com/gitRaed"><i class="fab fa-github mobile-footer-icon icon"></i></a> <a href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i class="fab fa-linkedin mobile-footer-icon icon"></i></a>
 
                     <div className="dropdown mobile-bouton-menu">
                         <button className="mobile-bouton" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
