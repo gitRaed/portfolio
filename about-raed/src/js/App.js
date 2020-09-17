@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import './mobile.css';
+import './style/App.css';
+import './style/mobile.css';
 import { ProSidebar, SidebarHeader, SidebarContent, SidebarFooter, Menu, MenuItem} from 'react-pro-sidebar';
 import '../node_modules/react-pro-sidebar/dist/css/styles.css';
 
@@ -35,7 +35,8 @@ class OtherMenu extends React.Component{
             </div>
           </SidebarFooter>
         </ProSidebar>
-      </div>)
+      </div>
+      )
   }
 }
 
