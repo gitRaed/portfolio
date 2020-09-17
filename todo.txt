@@ -7,6 +7,8 @@ Mets une croix ou une réponse dans les crochets si task fini
 
 {X} Menu
 
+{X} afficher les différents blocks
+
 {} block présentation (about me)
     {} situation
     {} passion
@@ -31,6 +33,8 @@ Mets une croix ou une réponse dans les crochets si task fini
     {} contacts facile à trouver (mail, github, linkedIn) et simplement présentés
 
 {} footer, img réseaux sociaux
+
+{} site en anglais
 
 exemples de portfolio : 
  https://ferdinandyu.github.io (2)
