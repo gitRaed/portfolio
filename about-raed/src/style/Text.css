@@ -40,3 +40,10 @@
 
     margin: 1%;
 }
+
+/* For all pages */
+.all-page-container {
+    height: 100%;
+    max-height: 500px;
+    overflow: auto;
+}

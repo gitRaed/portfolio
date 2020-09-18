@@ -1,6 +1,6 @@
-import React from 'react';
+import React, {useState} from 'react';
 import '../style/Text.css';
-
+import {SinglePage} from './pdf';
 
 export class About extends React.Component {
 
@@ -74,8 +74,8 @@ export class Course extends React.Component {
                     <h5><a href="https://absoftwork.com/">Ab Soft Work</a></h5>
                     <h6>Abidjan, Ivory Coast</h6>
                     <ul>
-                        <li>01/07/2019 – 31/08/2019 : intership in the reaseach & development team</li>
-                        <li>03/02/2020 – 04/05/2020 : intership in the research & development team, pickseat was made there !</li>
+                        <li>01/07/2019 – 31/08/2019 : internship in the research & development team</li>
+                        <li>03/02/2020 – 04/05/2020 : internship in the research & development team, pickseat was made there !</li>
                     </ul>
                 </div>
 
@@ -184,18 +184,28 @@ export class Projects extends React.Component {
     }
 }
 
+
 export class CV extends React.Component {
 
+    
     render() {
 
         return (
 
-            <div>
-                CV
+            <div className="content-display">
+                
+                <h2>CV</h2>
+                <hr/>
+                <div>
+
+                    <SinglePage pdf={require("../file/cv.pdf")} />
+
+                </div>
             </div>
         )
     }
 }
+
 
 export class Contact extends React.Component {
 
