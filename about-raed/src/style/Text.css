@@ -1,0 +1,42 @@
+.content-display {
+
+    padding: 5%;
+    float: right;
+    width: 80%;
+}
+
+@media screen and (max-width: 600px) {
+    .content-display {
+        width: 100%;
+    }
+}
+
+.course-div {
+
+    background-color: #f5f6fa;
+    box-shadow: 0 0 5px grey;
+    margin: 5%;
+    padding: 2%;
+}
+
+
+.colone1 {
+
+    text-align: right;
+}
+
+
+.project-div {
+
+    margin: 5%;
+}
+
+.card-logo {
+
+    padding: 2%;
+}
+
+.btn-primary, .btn-info {
+
+    margin: 1%;
+}

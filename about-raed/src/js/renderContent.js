@@ -1,5 +1,5 @@
 import React from 'react';
-import {About, Experience, Projects, CV, Contact} from './Text'
+import {About, Course, Projects, CV, Contact} from './Text'
 export function displaying(number) {
 
     let content;
@@ -11,7 +11,7 @@ export function displaying(number) {
         break;
 
         case 2:
-            content = <Experience />
+            content = <Course />
         break;
 
         case 3:

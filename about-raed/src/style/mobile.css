@@ -11,24 +11,7 @@
 
 }
 
-.mobile-logo{
 
-    border-radius: 50%;
-    display: block;
-    height: 150px;
-    margin: 0 auto 0 auto;
-    width: 150px;
-}
-
-.mobile-logo-titre {
-
-    border-bottom: 1px solid #adadad;
-    display: block;
-    line-height: 150%;
-    margin: 2% auto 2% auto;
-    text-align: center;
-    
-}
 
 .mobile-contact-info {
 

@@ -9,30 +9,32 @@ Mets une croix ou une réponse dans les crochets si task fini
 
 {X} afficher les différents blocks
 
-{} block présentation (about me)
-    {} situation
-    {} passion
-    {} études (ufra, fcc), lien vers block formation
-    {} hobbies
+{X} block présentation (about me)
+    {X} situation
+    {X} passion
+    {X} hobbies
 
-{} block formation/etudes ()
-    {} expliquer simplement mon parcours universitaire
-    {} lien vers block projet si on parle de projet universitaires
+{X} block course
+    {X} education
+        {} expliquer simplement mon parcours universitaire
+        {} lien vers block projet si on parle de projet universitaires
+    {X} experience
+        {} decrire simplement mes stages
 
-{} block project ()
-    {} parler et mettre un lien github de pickseat
-    {} mettre la vidéo de présentation de pickseat
-    {} mettre des liens de mes meilleurs projets FCC
-    {} mettre une vidéo de mes meilleurs projets FCC
+{X} block project
+    {X} parler et mettre un lien github de pickseat
+    {} mettre la vidéo de présentation de pickseat (optionnel)
+    {X} mettre des liens de mes meilleurs projets FCC
+    {} mettre une vidéo de mes meilleurs projets FCC (optionnel)
 
 {} block cv
     {} ne pas exagérer sur mes skills
     {} affiche mon cv en pdf ou sur une page web
 
-{} block contact (contact me)
-    {} contacts facile à trouver (mail, github, linkedIn) et simplement présentés
+{X} block contact (contact me)
+    {X} contacts facile à trouver (mail, github, linkedIn) et simplement présentés
 
-{} footer, img réseaux sociaux
+{X} footer, img réseaux sociaux
 
 {} site en anglais
 
@@ -42,9 +44,10 @@ exemples de portfolio :
  https://chippd.github.io/
  https://www.ybrikman.com/
  https://jtom.me/portfolio/ (1)
- https://andrewborstein.com/
+ https://andrewborstein.com/ (1)
 
 
 Le déploiement se fera sur github
 
+Start : 14/09/2020
 Deadline : 18/09/2020

@@ -19,20 +19,30 @@ export class LaptopMenu extends React.Component{
 
     return ( 
         
+        
+
         <div>
         
+            <div className="displaying">
+                {displaying(this.state.displaying)}
+            </div>
+
             <div className="menu">
             <ProSidebar width="30%" >
 
                 <SidebarHeader>
-                    <img className="logo" src={require("../images/raed2.png")} alt="My face"></img>
-                    <div className="logo-titre">FADDOUL EL-ACHKAR RAED <br /> FULL STACK SOFTWARE ENGINEER</div>
+                    <div>
+                        <p className="logo-titre">
+                            FADDOUL EL-ACHKAR RAED
+                            <p className="logo-titre-qualif">Full stack developer</p>
+                        </p>
+                    </div>
                 </SidebarHeader>
 
                 <SidebarContent>
                     <Menu>
                         <MenuItem onClick = {() => {this.setState({displaying: 1})}}> <i className="fas fa-user-circle content-icon"></i> <span className="menu-text">About me</span> </MenuItem>
-                        <MenuItem onClick = {() => {this.setState({displaying: 2})}}> <i className="fas fa-graduation-cap content-icon"></i> <span className="menu-text">Experience</span> </MenuItem>
+                        <MenuItem onClick = {() => {this.setState({displaying: 2})}}> <i className="fas fa-graduation-cap content-icon"></i> <span className="menu-text">Course</span> </MenuItem>
                         <MenuItem onClick = {() => {this.setState({displaying: 3})}}> <i className="fas fa-chart-bar content-icon"></i> <span className="menu-text">Projects</span> </MenuItem>
                         <MenuItem onClick = {() => {this.setState({displaying: 4})}}> <i className="fas fa-file content-icon"></i> <span className="menu-text">CV</span> </MenuItem>
                         <MenuItem onClick = {() => {this.setState({displaying: 5})}}> <i className="fas fa-address-book content-icon"></i> <span className="menu-text">Contact me</span> </MenuItem>
@@ -49,9 +59,7 @@ export class LaptopMenu extends React.Component{
         </div>
 
 
-            <div className="displaying">
-                {displaying(this.state.displaying)}
-            </div>
+            
 
         </div>
 
