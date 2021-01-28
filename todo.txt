@@ -19,7 +19,7 @@ Mets une croix ou une réponse dans les crochets si task fini
         {} expliquer simplement mon parcours universitaire
         {} lien vers block projet si on parle de projet universitaires
     {X} experience
-        {} decrire simplement mes stages
+        {X} decrire simplement mes stages
 
 {X} block project
     {X} parler et mettre un lien github de pickseat
@@ -27,16 +27,16 @@ Mets une croix ou une réponse dans les crochets si task fini
     {X} mettre des liens de mes meilleurs projets FCC
     {} mettre une vidéo de mes meilleurs projets FCC (optionnel)
 
-{} block cv
-    {} ne pas exagérer sur mes skills
-    {} affiche mon cv en pdf ou sur une page web
+{X} block cv
+    {X} ne pas exagérer sur mes skills
+    {X} affiche mon cv en pdf ou sur une page web
 
 {X} block contact (contact me)
     {X} contacts facile à trouver (mail, github, linkedIn) et simplement présentés
 
 {X} footer, img réseaux sociaux
 
-{} site en anglais
+{X} site en anglais
 
 exemples de portfolio : 
  https://ferdinandyu.github.io (2)
@@ -51,3 +51,5 @@ Le déploiement se fera sur github
 
 Start : 14/09/2020
 Deadline : 18/09/2020
+
+Finished!
