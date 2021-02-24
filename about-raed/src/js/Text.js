@@ -118,6 +118,7 @@ export class Projects extends React.Component {
                             <a className="btn btn-primary" href="https://angular.io/">Angular</a>
                             <a className="btn btn-primary" href="https://leafletjs.com/">Leaflet.Js</a>
                             <a className="btn btn-primary" href="https://nodejs.org/en/">Node</a>
+                            <a className="btn btn-primary" href="http://expressjs.com">Express</a>
                             <a className="btn btn-primary" href="https://sql.sh/">SQL</a>
                         </p>
 
@@ -178,7 +179,37 @@ export class Projects extends React.Component {
                             <a href="https://codepen.io/gitraed/pen/mdPWEXr" className="btn btn-info">Markdown Previewer</a>
 
                         </div>
-                    </div>  
+                    </div> 
+                    
+                    <div className="card project-div">
+                    <div className="card-logo">
+                        <img src={require("../images/yelp_logo.jpg")} className="card-img-top" alt="yelp banner"></img>
+                    </div>
+                    <div className="card-body">
+                        <hr/>
+                        <h5 className="card-title">Yelp clone</h5>
+                        <hr/>
+                        <p className="card-text">
+                            Made with pern stack (pern stack is an app created with PostgreSql Express React and Node), this app is a little clone 
+                            of yelp. It is not as useful and complete as the original yelp, but it was a test for myself to find a way to rate something, 
+                            to hone up my react skills and also to learn postgreSql. <br/> <br/>
+
+                            Here is the link to original yelp : <a href="https://www.yelp.com">Yelp</a>
+                        </p>
+
+                        <p>
+                            Made with : 
+                            <a className="btn btn-primary" href="https://fr.reactjs.org/">React.js</a>
+                            <a className="btn btn-primary" href="http://expressjs.com">Express</a>
+                            <a className="btn btn-primary" href="https://nodejs.org/en/">Node</a>
+                            <a className="btn btn-primary" href="https://www.postgresql.org">PostgreSql</a>
+                        </p>
+
+                        <a href="https://github.com/gitRaed/yelp" className="btn btn-info">Github repo here !</a>
+
+                    </div>
+                </div>
+
             </div>
         )
     }
