@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bddc4befcbfbd96decf18811dd966c65",
+    "revision": "be762e89c389394d3ce707380690c77b",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.edeedb01.chunk.css"
   },
   {
-    "revision": "bc8fcff0e0b73bbd9e01",
-    "url": "/portfolio/static/css/main.6fcab306.chunk.css"
+    "revision": "e6e1a5668a8e255b4998",
+    "url": "/portfolio/static/css/main.60162367.chunk.css"
   },
   {
     "revision": "a32f712e7beba60d34f6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.39bb92f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc8fcff0e0b73bbd9e01",
-    "url": "/portfolio/static/js/main.cf5c8014.chunk.js"
+    "revision": "e6e1a5668a8e255b4998",
+    "url": "/portfolio/static/js/main.d68e09aa.chunk.js"
   },
   {
     "revision": "86ab21c6030aeb34ea52",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cb77ad0a8d9995a14a7e45594e4f9967",
     "url": "/portfolio/static/media/raed2.cb77ad0a.png"
+  },
+  {
+    "revision": "c5514c8788cc5e37ef0aed506ebb6a96",
+    "url": "/portfolio/static/media/yelp_logo.c5514c87.jpg"
   }
 ]);
