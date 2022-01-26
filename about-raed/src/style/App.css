@@ -29,9 +29,9 @@ html, body {
 
   border-radius: 50%;
   float: left;
-  height: 150px;
-  margin: 2%;
-  width: 150px;
+  height: auto;
+  margin: 0 2% 2% 0;
+  width: 200px;
 }
 
 .logo-titre {
