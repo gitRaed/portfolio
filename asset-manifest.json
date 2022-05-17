@@ -1,29 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7bf253cd.chunk.css",
-    "main.js": "/portfolio/static/js/main.d20d5ca9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d20d5ca9.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.3ff7c761.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3ff7c761.js.map",
-    "static/css/2.edeedb01.chunk.css": "/portfolio/static/css/2.edeedb01.chunk.css",
-    "static/js/2.cd3a031e.chunk.js": "/portfolio/static/js/2.cd3a031e.chunk.js",
-    "static/js/2.cd3a031e.chunk.js.map": "/portfolio/static/js/2.cd3a031e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.052b3fb5.css",
+    "main.js": "/portfolio/static/js/main.2c3d4c2e.js",
+    "static/media/moi.jpg": "/portfolio/static/media/moi.cf75f82c155aa93734f1.jpg",
+    "static/media/hysteric.PNG": "/portfolio/static/media/hysteric.e9a2a1ce368b0275f982.PNG",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.f495134930da74e0e42f.pdf",
+    "static/media/photo-gallery-banner.jpg": "/portfolio/static/media/photo-gallery-banner.c659d782ca7d4c3f1272.jpg",
+    "static/media/yelp_logo.jpg": "/portfolio/static/media/yelp_logo.14abe44b2618c126c74b.jpg",
+    "static/media/fcc-banner.jpg": "/portfolio/static/media/fcc-banner.32956f16e19b0cbb564e.jpg",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ed94ce69647467b83fa85c4925ad3a5c.js": "/portfolio/precache-manifest.ed94ce69647467b83fa85c4925ad3a5c.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.edeedb01.chunk.css.map": "/portfolio/static/css/2.edeedb01.chunk.css.map",
-    "static/css/main.7bf253cd.chunk.css.map": "/portfolio/static/css/main.7bf253cd.chunk.css.map",
-    "static/js/2.cd3a031e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cd3a031e.chunk.js.LICENSE.txt",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.b9220c67.pdf",
-    "static/media/fcc-banner.jpg": "/portfolio/static/media/fcc-banner.6453d7fd.jpg",
-    "static/media/moi.jpg": "/portfolio/static/media/moi.dbfeac2b.jpg",
-    "static/media/yelp_logo.jpg": "/portfolio/static/media/yelp_logo.c5514c87.jpg"
+    "main.052b3fb5.css.map": "/portfolio/static/css/main.052b3fb5.css.map",
+    "main.2c3d4c2e.js.map": "/portfolio/static/js/main.2c3d4c2e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff7c761.js",
-    "static/css/2.edeedb01.chunk.css",
-    "static/js/2.cd3a031e.chunk.js",
-    "static/css/main.7bf253cd.chunk.css",
-    "static/js/main.d20d5ca9.chunk.js"
+    "static/css/main.052b3fb5.css",
+    "static/js/main.2c3d4c2e.js"
   ]
 }
