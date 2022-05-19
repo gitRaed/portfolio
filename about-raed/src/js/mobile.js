@@ -35,11 +35,13 @@ export class MobileMenu extends React.Component {
                             <i className="fas fa-bars"></i>
                         </button>
                         <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 1})}}>About me</a>
-                            <a className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 2})}}>Course</a>
-                            <a className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 3})}}>Projects</a>
-                            <a className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 4})}}>CV</a>
-                            <a className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 5})}}>Contact me</a>
+                            <ul>
+                                <li className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 1})}}>About me</li>
+                                <li className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 2})}}>Course</li>
+                                <li className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 3})}}>Projects</li>
+                                <li className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 4})}}>CV</li>
+                                <li className="dropdown-item dropdown-link" onClick = {() => {this.setState({displaying: 5})}}>Contact me</li>
+                            </ul>
                         </div>
                     </div>
                 </div>

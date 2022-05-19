@@ -52,7 +52,9 @@ export class LaptopMenu extends React.Component{
                 <SidebarFooter>
                     <div className="footer-info">
                         Get in touch <br /> <br />
-                        <a href="mailto:raedfaddoul@gmail.com"> <i className="fas fa-envelope footer-icon icon"></i></a> <a target="_blank" href="https://github.com/gitRaed"><i className="fab fa-github footer-icon icon"></i></a> <a target="_blank" href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i className="fab fa-linkedin footer-icon icon"></i></a>
+                        <a href="mailto:raedfaddoul@gmail.com"> <i className="fas fa-envelope footer-icon icon"></i></a> 
+                        <a target="_blank" rel='noopener noreferrer' href="https://github.com/gitRaed"><i className="fab fa-github footer-icon icon"></i></a> 
+                        <a target="_blank" rel='noopener noreferrer' href="https://www.linkedin.com/in/raed-faddoul-63b414193/" ><i className="fab fa-linkedin footer-icon icon"></i></a>
                     </div>
                 </SidebarFooter>
             </ProSidebar>
