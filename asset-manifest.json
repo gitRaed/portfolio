@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.052b3fb5.css",
-    "main.js": "/portfolio/static/js/main.2c3d4c2e.js",
+    "main.js": "/portfolio/static/js/main.ceb85bd9.js",
     "static/media/moi.jpg": "/portfolio/static/media/moi.cf75f82c155aa93734f1.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.9e446bbe0ac4367c66bb.pdf",
     "static/media/hysteric.PNG": "/portfolio/static/media/hysteric.e9a2a1ce368b0275f982.PNG",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.f495134930da74e0e42f.pdf",
     "static/media/photo-gallery-banner.jpg": "/portfolio/static/media/photo-gallery-banner.c659d782ca7d4c3f1272.jpg",
     "static/media/yelp_logo.jpg": "/portfolio/static/media/yelp_logo.14abe44b2618c126c74b.jpg",
     "static/media/fcc-banner.jpg": "/portfolio/static/media/fcc-banner.32956f16e19b0cbb564e.jpg",
     "index.html": "/portfolio/index.html",
     "main.052b3fb5.css.map": "/portfolio/static/css/main.052b3fb5.css.map",
-    "main.2c3d4c2e.js.map": "/portfolio/static/js/main.2c3d4c2e.js.map"
+    "main.ceb85bd9.js.map": "/portfolio/static/js/main.ceb85bd9.js.map"
   },
   "entrypoints": [
     "static/css/main.052b3fb5.css",
-    "static/js/main.2c3d4c2e.js"
+    "static/js/main.ceb85bd9.js"
   ]
 }
