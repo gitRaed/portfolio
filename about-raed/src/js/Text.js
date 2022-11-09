@@ -81,6 +81,14 @@ export class Course extends React.Component {
                     </ul>
                 </div>
 
+                <div className="course-div"> 
+                    <h5><a target='_blank' rel='noopener noreferrer' href="https://s2mi-ci.com">2MI</a></h5>
+                    <h6>Abidjan, Ivory Coast</h6>
+                    <ul>
+                        <li>09/07/2022 – 11/07/2022:  internship in the purchasing department of 2MI</li>
+                    </ul>
+                </div>
+
             </div>
         )
     }
