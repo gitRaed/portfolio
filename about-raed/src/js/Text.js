@@ -19,7 +19,6 @@ export class About extends React.Component {
                     I speak french (native) and I am actively learning english. <br/> <br/>
                     I love programming, video games, reading and, most importantly, I am pretty curious. I ask to much questions 
                     (it annoys the people around me) and make tons of research about things that titillate my curiousity.<br/> <br/>
-                    I started to well learn development in 2019. So, do consider that I'm new to this amazing world.<br/> <br/>
                     Please do check my projects to understand what I did alone ! And don't forget to also check my Course
                     to see my journey ! <br/> <br/>
 
@@ -30,7 +29,7 @@ export class About extends React.Component {
                         <li>JavaScript, React, Angular, Node</li>
                     </ul>
 
-                    As finding a dev job is hard in my country, I am open to anything ! I promise, you won't regret to hire a young dev who loves learning !
+                    As finding a job is hard in my country, I am open to anything ! I promise, you won't regret to hire a young guy who loves learning !
                 </p>
             </div>
         )
@@ -71,6 +70,15 @@ export class Course extends React.Component {
                 </div>
 
                 <h4>Experience</h4>
+
+                <div className="course-div"> 
+                    <h5><a target='_blank' rel='noopener noreferrer' href="https://www.goafricaonline.com/ci/99714-snpc-peinture-abidjan-cote-ivoire">SNPC</a></h5>
+                    <h6>Abidjan, Ivory Coast</h6>
+                    <ul>
+                        <li>05/01/2023 – Today : Working as an accountant</li>
+                        <li>Details : managing clients account, solving problems and leading a small team</li>
+                    </ul>
+                </div>
 
                 <div className="course-div"> 
                     <h5><a target='_blank' rel='noopener noreferrer' href="https://absoftwork.com/">Ab Soft Work</a></h5>

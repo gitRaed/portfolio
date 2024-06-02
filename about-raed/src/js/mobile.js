@@ -23,7 +23,7 @@ export class MobileMenu extends React.Component {
             <div>
                 <p className="logo-titre">
                     FADDOUL EL-ACHKAR RAED
-                    <p className="logo-titre-qualif">Full stack software engineer</p>
+                    <p className="logo-titre-qualif">Full stack software engineer / Accountant</p>
                 </p>
             </div>
 
