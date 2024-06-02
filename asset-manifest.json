@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.052b3fb5.css",
-    "main.js": "/portfolio/static/js/main.ceb85bd9.js",
+    "main.css": "/portfolio/static/css/main.50d6b709.css",
+    "main.js": "/portfolio/static/js/main.5fe33524.js",
     "static/media/moi.jpg": "/portfolio/static/media/moi.cf75f82c155aa93734f1.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.9e446bbe0ac4367c66bb.pdf",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.47f0e04855fb7d6d0af0.pdf",
     "static/media/hysteric.PNG": "/portfolio/static/media/hysteric.e9a2a1ce368b0275f982.PNG",
     "static/media/photo-gallery-banner.jpg": "/portfolio/static/media/photo-gallery-banner.c659d782ca7d4c3f1272.jpg",
     "static/media/yelp_logo.jpg": "/portfolio/static/media/yelp_logo.14abe44b2618c126c74b.jpg",
     "static/media/fcc-banner.jpg": "/portfolio/static/media/fcc-banner.32956f16e19b0cbb564e.jpg",
     "index.html": "/portfolio/index.html",
-    "main.052b3fb5.css.map": "/portfolio/static/css/main.052b3fb5.css.map",
-    "main.ceb85bd9.js.map": "/portfolio/static/js/main.ceb85bd9.js.map"
+    "main.50d6b709.css.map": "/portfolio/static/css/main.50d6b709.css.map",
+    "main.5fe33524.js.map": "/portfolio/static/js/main.5fe33524.js.map"
   },
   "entrypoints": [
-    "static/css/main.052b3fb5.css",
-    "static/js/main.ceb85bd9.js"
+    "static/css/main.50d6b709.css",
+    "static/js/main.5fe33524.js"
   ]
 }
